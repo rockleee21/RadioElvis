@@ -70,5 +70,17 @@
     "nombre": "Oxigeno",
     "stream_url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8",
     "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/oxigeno.jpeg?raw=true"
+  },
+  {
+    "id": 13,
+    "nombre": "El Patrón",
+    "stream_url": "https://live.somoszl.com:8010/radio",
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/el%20patron.jpeg?raw=true"
+  },
+  {
+    "id": 14,
+    "nombre": "Radio Campesina",
+    "stream_url": "https://panel.innovatestream.pe:10943/stream",
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/radio%20campesina.jpeg?raw=true"
   }
 ]
