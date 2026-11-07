@@ -82,5 +82,11 @@
     "nombre": "Radio Campesina",
     "stream_url": "https://panel.innovatestream.pe:10943/stream",
     "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/radio%20campesina.jpeg?raw=true"
+  },
+  {
+    "id": 15,
+    "nombre": "HTR Huayno Ayacucho",
+    "stream_url": "https://stream.zeno.fm/66xq9u1d2c9uv",
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/HTR.jpeg?raw=true"
   }
 ]
