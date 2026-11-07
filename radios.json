@@ -3,72 +3,72 @@
     "id": 1,
     "nombre": "Rpp Noticias",
     "stream_url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio",
-    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/RPP.png?raw=true"
   },
   {
     "id": 2,
     "nombre": "Radio Exitosa",
     "stream_url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
-    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_oficial_de_Radio_Exitosa.jpg"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/exitosa.jpg?raw=true"
   },
   {
     "id": 3,
     "nombre": "Radio Santa Mónica",
     "stream_url": "https://panel.innovatestream.pe:10936/stream",
-    "icon_url": "https://radiosantamonica.org/wp-content/uploads/2025/01/Imagen-de-WhatsApp-2025-01-28-a-las-12.44.31_078ebc1f-1.jpg"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/santa%20monica.jpg?raw=true"
   },
   {
     "id": 4,
     "nombre": "Andina Chota",
     "stream_url": "https://panel.innovatestream.pe:10973/stream",
-    "icon_url": "https://uvaplay.com/radioandinachota/appicon.png"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/andina%20radio.jpeg?raw=true"
   },
   {
     "id": 5,
     "nombre": "La Inolvidable",
     "stream_url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4",
-    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Logolainolvidable2020.png"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/la%20inolvidable.jpg?raw=true"
   },
   {
     "id": 6,
     "nombre": "Cumbia Mix",
     "stream_url": "https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio",
-    "icon_url": "https://radiocumbiamix.com/img/logo_cumbia_mix.png"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/cumbia%20mix.jpeg?raw=true"
   },
   {
     "id": 7,
     "nombre": "Panamericana",
     "stream_url": "https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio",
-    "icon_url": "https://static-media.streema.com/media/cache/88/74/8874c7e02e56f56b4d18607b234c95ba.jpg"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/panamericana.jpeg?raw=true"
   },
   {
     "id": 8,
     "nombre": "Nueva Q",
     "stream_url": "https://mdstrm.com/audio/6839e1f153fcf56d988d5943/live.m3u8?property=aiir",
-    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Radio_Nueva_Q_2019.webp"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/nueva%20q.jpeg?raw=true"
   },
   {
     "id": 9,
     "nombre": "Radiomar",
     "stream_url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d",
-    "icon_url": "https://cdn-profiles.tunein.com/s16392/images/logod.png"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/radiomar.jpeg?raw=true"
   },
   {
     "id": 10,
     "nombre": "Panamericana Salsa",
     "stream_url": "https://mdstrm.com/audio/6598b751261d9e088a6deadd/icecast.audio",
-    "icon_url": "https://www.veredictas.com/img/trabajos/900-675-ADAPTA/df9eec9f9b5e22bff1a7046df1f01b.jpg"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/panamericana%20salsa.jpeg?raw=true"
   },
   {
     "id": 11,
     "nombre": "Corazón",
     "stream_url": "https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio",
-    "icon_url": "https://md1.rpp-noticias.io/180x180/cutter/2026/06/03/1780504836.jpg"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/corazon.jpeg?raw=true"
   },
   {
     "id": 12,
     "nombre": "Oxigeno",
     "stream_url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8",
-    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Radio_Ox%25_3Fgeno_2021.webp"
+    "icon_url": "https://github.com/rockleee21/RadioElvis/blob/main/oxigeno.jpeg?raw=true"
   }
 ]
